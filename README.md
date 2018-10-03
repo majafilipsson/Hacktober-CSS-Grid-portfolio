@@ -1,2 +1,5 @@
+
+https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif
+
 # Hacktober-CSS-Grid-portfolio
-Image/photo portfolio with CSS grid
+Help me create an image/photo portfolio with CSS grid if you want to get some practice in CSS Grid.
