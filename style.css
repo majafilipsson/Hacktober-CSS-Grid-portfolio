@@ -28,3 +28,8 @@ main.grid img {
   border: 1px solid #ccc;
   box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.3);
 }
+
+img {
+   padding:1px;
+   border:1px solid #021a40;
+}
